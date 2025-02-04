@@ -27,6 +27,6 @@ int main()
 	{
 		std::cout << *it << "\n";
 	}
-	std::hash
+
 	std::cin.get();
 }

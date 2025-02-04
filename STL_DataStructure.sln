@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.VectorProblem", "2.Vector
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3.List", "3.List\List.vcxproj", "{28F4CC89-48AB-4EFE-86F8-2B5D429CD0EE}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "6.unordered_map", "6.unordered_map\6.unordered_map.vcxproj", "{3600BE45-3872-4186-B8F7-0BE902E24231}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{28F4CC89-48AB-4EFE-86F8-2B5D429CD0EE}.Release|x64.Build.0 = Release|x64
 		{28F4CC89-48AB-4EFE-86F8-2B5D429CD0EE}.Release|x86.ActiveCfg = Release|Win32
 		{28F4CC89-48AB-4EFE-86F8-2B5D429CD0EE}.Release|x86.Build.0 = Release|Win32
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Debug|x64.ActiveCfg = Debug|x64
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Debug|x64.Build.0 = Debug|x64
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Debug|x86.ActiveCfg = Debug|Win32
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Debug|x86.Build.0 = Debug|Win32
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Release|x64.ActiveCfg = Release|x64
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Release|x64.Build.0 = Release|x64
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Release|x86.ActiveCfg = Release|Win32
+		{3600BE45-3872-4186-B8F7-0BE902E24231}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
